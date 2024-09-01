@@ -17,7 +17,7 @@ This is a simple notes application that allows users to create, edit, and delete
 
 First, clone the repository to your local machine using Git:
 ```
-git clone https://github.com/OsirisTape/notes-application.git
+git clone https://github.com/osirisTape/notes-application.git
 ```
 ### 2. Navigate to the Project Directory
 ```
