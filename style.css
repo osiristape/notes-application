@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body{
     margin: 0;
     background-color: #000000;
@@ -67,4 +71,12 @@ body{
     transform: scale(1.1);
     background-color: #818181;
     color: #ffffff;
+}
+/* added theme class for theme btn */
+.theme {
+  cursor: pointer;
+  color: white;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
 }
